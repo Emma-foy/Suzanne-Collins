@@ -1,1 +1,4 @@
-body {background-color: black;}/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+body {background-color: black;}
+h1 {text-align: center; color: gold;}
+.card-group {margin:0 auto; width: 700px;}
