@@ -1,7 +1,7 @@
 /* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
 body {background-color: black;}
 h1 {text-align: center; color: gold;}
-.class #navbar {text-align: center; background-color: gold;}
+.navbar {background-color: gold;}
 #updates {text-align:center; color: white;}
 .card-group, #about {margin:0 auto; width: 700px;}
 
