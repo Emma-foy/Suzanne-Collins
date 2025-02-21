@@ -5,6 +5,12 @@ h1 {text-align: center; color: #E4B77D;}
 #updates {text-align:center; color: white;}
 .card-group, #about {margin:0 auto; width: 700px;}
 
+div.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
 .about {align-content: center;}
 #suzanne {width: 75%;}
 
