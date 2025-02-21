@@ -1,4 +1,9 @@
 /* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
 body {background-color: black;}
 h1 {text-align: center; color: gold;}
-.card-group {margin:0 auto; width: 700px;}
+.card-group, #about {margin:0 auto; width: 700px;}
+
+.about {align-content: center;}
+#suzanne {width: 75%;}
+
+#about {margin-top: 50px;}
