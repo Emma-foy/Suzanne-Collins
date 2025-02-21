@@ -6,7 +6,7 @@ h1 {text-align: center; color: #E4B77D;}
 .card-group, #about {margin:0 auto; width: 700px;}
 
 div.scroll-container {
-  background-color: #333;
+  background-color: #8B0000;
   overflow: auto;
   white-space: nowrap;
   padding: 10px;
