@@ -1,5 +1,5 @@
 /* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
-body {background-color: black;}
+body {background-color: black;  font-family: "Times New Roman", Times, serif; }
 h1 {text-align: center; color: #E4B77D;}
 .navbar {background-color: #E4B77D;}
 #updates {text-align:center; color: white;}
