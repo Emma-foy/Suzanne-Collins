@@ -1,6 +1,7 @@
 /* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
 body {background-color: black;  font-family: "Times New Roman", Times, serif; }
 h1 {text-align: center; color: #E4B77D;}
+
 .navbar {background-color: #E4B77D;}
 #updates {text-align:center; color: white;}
 .card-group, #about {margin:0 auto; width: 800px;}
@@ -23,4 +24,6 @@ h1 {text-align: center; color: #E4B77D;}
 #about {margin-top: 50px;}
 
 .books {text-align: left; padding-left: 25px;}
+
+#timeline {text-align: center;}
 
